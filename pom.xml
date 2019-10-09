@@ -47,7 +47,7 @@
         <version>1.7.0</version>  
         <configuration>
           <schemaVersion>V2</schemaVersion>
-          <resourceGroup>theinquisitives-rg</resourceGroup>
+          <resourceGroup>teamtestcdb2-rg</resourceGroup>
           <appName>azspringboot</appName>
           <region>northeurope</region>
           <pricingTier>P1V2</pricingTier>
